@@ -1,5 +1,11 @@
 ### Hi there 👋
+### I am interested in learning: Things related to operating system management, from how a computer understands the ways to turn on, to how an operating system can be used to learn about itself.💻 Currently, I am working on: I am working in digital marketing to help entrepreneurs in the tattoo 💉 industry grow their brand. I also work with programming; currently, I have a project for automating the customized installation of a Linux 🐧 operating system, using Ubuntu as a base for testing.
 
+### My hobby: I play the guitar 🎸, also repair and sell them. I also enjoy reading 📖.
+
+### I would like to see more: I would like to see more on software development 🖥.
+
+### I would find it interesting and useful in my learning: To learn more about how software development companies solve problems that address the needs of the population 📱.
 <!--
 **Edgar888/Edgar888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
