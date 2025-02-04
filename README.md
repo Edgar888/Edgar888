@@ -1,22 +1,57 @@
-### Hi there 👋
-### I am interested in learning: Things related to operating system management, from how a computer understands the ways to turn on, to how an operating system can be used to learn about itself.💻 Currently, I am working on: I am working in digital marketing to help entrepreneurs in the tattoo 💉 industry grow their brand. I also work with programming; currently, I have a project for automating the customized installation of a Linux 🐧 operating system, using Ubuntu as a base for testing.
+💻 Edgar Montiel Ledesma
 
-### My hobby: I play the guitar 🎸, also repair and sell them. I also enjoy reading 📖.
+👨‍🎓 Sobre mí
 
-### I would like to see more: I would like to see more on software development 🖥.
+¡Hola! Soy Edgar Montiel Ledesma, estudiante de Ciencias de la Computación en la Facultad de Ciencias, UNAM. Me apasiona la programación concurrente, procesamiento digital de imágenes y redes de computadoras. También tengo interés en la seguridad informática y el análisis de algoritmos.
 
-### I would find it interesting and useful in my learning: To learn more about how software development companies solve problems that address the needs of the population 📱.
-<!--
-**Edgar888/Edgar888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologías y herramientas
 
-Here are some ideas to get you started:
+Lenguajes: Python, Java, Pascal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Concurrente y paralelismo: Java (ExecutorService, Spinlocks, Algoritmo de Bakery)
+
+Procesamiento de imágenes: Filtros en Python (dithering, desenfoque, convolución, Riemersma)
+
+Redes y protocolos: RIP, OSPF, FRR, GNS3
+
+Automatización y criptografía: LFSR, cifrado afín
+
+Herramientas: LaTeX (TikZ), GNS3, WHOIS
+
+🔬 Proyectos destacados
+
+📸 Procesamiento Digital de Imágenes
+
+Filtros sin OpenCV: Implementación de filtros de dithering (azar, disperso, ordenado, Floyd-Steinberg), semitonos, y desenfoque sin depender de bibliotecas externas.
+
+Foto mosaico: Comparación de imágenes con distancia euclidiana y algoritmo de Riemersma.
+
+Interfaz Gráfica para Filtros: Aplicación en Python con GUI para seleccionar y aplicar filtros de imagen.
+
+🔄 Programación Concurrente
+
+Sincronización con Spinlocks: Implementación de diversos spinlocks en Java 21 (TASLock, TTASLock, MCSLock, etc.) y medición de rendimiento.
+
+Algoritmo de Bakery: Control de acceso justo para múltiples hilos.
+
+🌐 Redes de Computadoras
+
+Topologías en GNS3: Configuración de redes con múltiples switches, routers y PCs, incluyendo enrutamiento dinámico.
+
+RIP y OSPF en FRR: Configuración avanzada de redes con protocolos de enrutamiento dinámico.
+
+🕵️ Seguridad y Criptografía
+
+Descifrador Afín: Decodificación de archivos MP3, PDF y MP4 con cifrado afín.
+
+LFSR y Secuencias Pseudoaleatorias: Implementación de polinomios de retroalimentación máxima.
+
+Malware Simulado: Creación de ransomware y spyware para análisis de seguridad.
+
+📫 Contacto
+
+Correo: m8edgar@outlook.com
+
+GitHub: github.com/Edgar888
+
+¡Gracias por visitar mi perfil! 🚀
