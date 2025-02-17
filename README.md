@@ -2,51 +2,23 @@
 
 👨‍🎓 Sobre mí
 
-¡Hola! Soy Edgar Montiel Ledesma, estudiante de Ciencias de la Computación en la Facultad de Ciencias, UNAM. Me apasiona la programación concurrente, procesamiento digital de imágenes y redes de computadoras. También tengo interés en la seguridad informática y el análisis de algoritmos.
+¡Hola! Soy Edgar Montiel Ledesma, estudiante de Ciencias de la Computación en la Facultad de Ciencias, UNAM. <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-🛠️ Tecnologías y herramientas
+👨‍💻 Interesado en procesamiento digital de imágenes y redes.
+📚 Explorando sistemas concurrentes y criptografía.
+💪🏼 Meta: Crear soluciones eficientes y optimizadas.
+⚡ Pasatiempos: Natación 🏊 y música 🎵
 
-Lenguajes: Python, Java, Pascal
+<blockquote style="font-size: 24px;"> <p align="center"> <strong>"La simplicidad es la máxima sofisticación"</strong> </p> </blockquote>
 
-Concurrente y paralelismo: Java (ExecutorService, Spinlocks, Algoritmo de Bakery)
+Lenguajes y Herramientas:
+<p> <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/java-4.svg" alt="Java"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="Git"></code> 
+<code><img height="22" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/terminal-1.svg" alt="Terminal"></code> 
+<code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/c-2975.svg" alt="C"></code> 
+<code><img height="26" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/sql.png" alt="SQL"></code> </p>
 
-Procesamiento de imágenes: Filtros en Python (dithering, desenfoque, convolución, Riemersma)
-
-Redes y protocolos: RIP, OSPF, FRR, GNS3
-
-Automatización y criptografía: LFSR, cifrado afín
-
-Herramientas: LaTeX (TikZ), GNS3, WHOIS
-
-🔬 Proyectos destacados
-
-📸 Procesamiento Digital de Imágenes
-
-Filtros sin OpenCV: Implementación de filtros de dithering (azar, disperso, ordenado, Floyd-Steinberg), semitonos, y desenfoque sin depender de bibliotecas externas.
-
-Foto mosaico: Comparación de imágenes con distancia euclidiana y algoritmo de Riemersma.
-
-Interfaz Gráfica para Filtros: Aplicación en Python con GUI para seleccionar y aplicar filtros de imagen.
-
-🔄 Programación Concurrente
-
-Sincronización con Spinlocks: Implementación de diversos spinlocks en Java 21 (TASLock, TTASLock, MCSLock, etc.) y medición de rendimiento.
-
-Algoritmo de Bakery: Control de acceso justo para múltiples hilos.
-
-🌐 Redes de Computadoras
-
-Topologías en GNS3: Configuración de redes con múltiples switches, routers y PCs, incluyendo enrutamiento dinámico.
-
-RIP y OSPF en FRR: Configuración avanzada de redes con protocolos de enrutamiento dinámico.
-
-🕵️ Seguridad y Criptografía
-
-Descifrador Afín: Decodificación de archivos MP3, PDF y MP4 con cifrado afín.
-
-LFSR y Secuencias Pseudoaleatorias: Implementación de polinomios de retroalimentación máxima.
-
-Malware Simulado: Creación de ransomware y spyware para análisis de seguridad.
 
 📫 Contacto
 
