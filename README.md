@@ -25,9 +25,14 @@ Lenguajes y Herramientas:
 📫 Contacto
 
 <a href="https://www.linkedin.com/in/edgarml812"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn@edgarml812"></a>
-<a href="https://instagram.com/ujwal.kandi"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram@ujwal.kandi"></a>
 
-📧 [Correo](mailto:m8edgar@outlook.com)
+<a href="mailto:m8edgar@outlook.com">
+  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Outlook_icon.png" alt="Outlook">
+</a>
+
+
+
+📧 [Correo](mailto:)
 
 
 ¡Gracias por visitar mi perfil! 🚀
