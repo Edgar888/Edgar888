@@ -1,8 +1,11 @@
 💻 ¡Hola! Soy Edgar Montiel Ledesma, estudiante de Ciencias de la Computación en la Facultad de Ciencias, UNAM. <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-👨‍💻 Interesado en procesamiento digital de imágenes y redes.\\
+👨‍💻 Interesado en procesamiento digital de imágenes y redes.
+
 📚 Explorando sistemas concurrentes y criptografía.
+
 💪🏼 Meta: Crear soluciones eficientes y optimizadas.
+
 ⚡ Pasatiempos: Natación 🏊 y música 🎵
 
 <blockquote style="font-size: 24px;"> <p align="center"> <strong>"La simplicidad es la máxima sofisticación"</strong> </p> </blockquote>
