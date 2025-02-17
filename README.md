@@ -16,7 +16,7 @@ Lenguajes y Herramientas:
 <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="Git"></code> 
 <code><img height="22" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/terminal-1.svg" alt="Bash"></code> 
 <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/c-2975.svg" alt="C"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/c-2975.svg" alt="Prolog"></code>
+<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Prolog-logo.png" alt="Prolog"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/sql.png" alt="SQL"></code> </p>
 
 
