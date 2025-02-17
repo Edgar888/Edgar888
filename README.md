@@ -1,4 +1,5 @@
-💻 ¡Hola! Soy Edgar Montiel Ledesma, estudiante de Ciencias de la Computación en la Facultad de Ciencias, UNAM. <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+💻 ¡Hola! Soy Edgar Montiel Ledesma, estudiante de Ciencias de la Computación en la Facultad de Ciencias, UNAM. <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
+
 
 👨‍💻 Interesado en procesamiento digital de imágenes y redes.
 
@@ -16,7 +17,7 @@ Lenguajes y Herramientas:
 <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="Git"></code> 
 <code><img height="22" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/terminal-1.svg" alt="Bash"></code> 
 <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/c-2975.svg" alt="C"></code>
-<code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Prolog-logo.png" alt="Prolog"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/tu-usuario/tu-repo/main/prolog-logo.png" alt="Prolog"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/sql.png" alt="SQL"></code> </p>
 
 
