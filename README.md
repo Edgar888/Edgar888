@@ -27,7 +27,7 @@ Lenguajes y Herramientas:
 <a href="https://www.linkedin.com/in/edgarml812"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn@edgarml812"></a>
 
 <a href="mailto:m8edgar@outlook.com">
-  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Outlook_icon.png" alt="Outlook">
+  <img height="25" src="https://es.m.wikipedia.org/wiki/Archivo:Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="Outlook">
 </a>
 
 
