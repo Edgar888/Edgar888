@@ -25,15 +25,7 @@ Lenguajes y Herramientas:
 📫 Contacto
 
 <a href="https://www.linkedin.com/in/edgarml812"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn@edgarml812"></a>
-
-<a href="mailto:edgar@example.com"><img src="https://img.shields.io/badge/-Outlook-white?style=flat-square&logo=Outlook&logoColor=blue" alt="Outlook">
+<a href="mailto:m8edgar@outlook.com"><img src="https://img.shields.io/badge/-Outlook-white?style=flat-square&logo=Outlook&logoColor=blue" alt="Outlook">
 </a>
-
-
-
-
-
-📧 [Correo](mailto:)
-
 
 ¡Gracias por visitar mi perfil! 🚀
