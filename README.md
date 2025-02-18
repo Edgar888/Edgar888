@@ -24,7 +24,7 @@ Lenguajes y Herramientas:
 
 📫 Contacto
 
-<a href="https://www.linkedin.com/in/edgarml812"><img src="https://worldvectorlogo.com/es/logo/outlook" alt="LinkedIn@edgarml812"></a>
+<a href="https://www.linkedin.com/in/edgarml812"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn@edgarml812"></a>
 
 <a href="mailto:m8edgar@outlook.com">
   <img height="25" src="https://www.logo.wine/logo/Microsoft_Outlook" alt="Outlook">
